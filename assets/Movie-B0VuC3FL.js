@@ -1,0 +1,1 @@
+import{o as e,r as t}from"./index-D5m5T8vZ.js";var n=t();function r(){return(0,n.jsx)(`main`,{children:(0,n.jsx)(e,{})})}export{r as default};

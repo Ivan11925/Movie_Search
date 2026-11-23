@@ -1,1 +1,0 @@
-import{o as e,r as t}from"./index-Cc-hY0Dl.js";var n=t();function r(){return(0,n.jsx)(`main`,{children:(0,n.jsx)(e,{})})}export{r as default};
